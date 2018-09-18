@@ -1,4 +1,4 @@
-# RSSI Calculator
+# RSSI Distance Calculator
 Script that makes statistical calculations, generates graphs and boxplots of RSSI values
 Script que faz cálculos estatísticos, gera gráficos e boxplots de valores RSSI
 
