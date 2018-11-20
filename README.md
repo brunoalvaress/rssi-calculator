@@ -1,4 +1,4 @@
-# Estimador de distância através do RSSI de dispositivos Bluetooth Low Energy
+# Funções estatísticas voltadas a valores RSSI obtidos de dispositivos Bluetooth Low Energy
 
 Esse script desenvolvido em Python foi desenvolvido como parte do trabalho de conclusão de curso para Engenharia de Telecomunicações. Basicamente sua função é recuperar e realizar cálculos estatísticos com os valores RSSI armazenados no banco de dados do Firebase Realtime Database, que foram enviados pelo scanner BLE desenvolvido por mim no seguinte link: https://github.com/brunoalvaress/ble-scanner.
 
